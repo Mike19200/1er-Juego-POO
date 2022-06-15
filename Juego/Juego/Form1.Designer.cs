@@ -47,7 +47,7 @@ namespace Juego
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.32727F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(316, 220);
+            this.button1.Location = new System.Drawing.Point(317, 220);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(155, 50);
             this.button1.TabIndex = 1;
